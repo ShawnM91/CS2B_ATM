@@ -5,7 +5,7 @@ This program is designed to simulate an ATM.
 
 The following C++ concepts must be used in design and implementation of the chosen system:
 
-   Enumerated types
+      Enumerated types
    
    Member initializer syntax in constructor definition
    
