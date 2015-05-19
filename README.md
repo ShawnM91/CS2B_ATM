@@ -7,12 +7,12 @@ The following C++ concepts must be used in design and implementation of the chos
 
       Enumerated types
       Member initializer syntax in constructor definition
-       Dynamic memory allocation and de-allocation
-       Single Inheritance (public inheritance only): at least 3 levels
-       Abstract classes (pure virtual functions)
-       Polymorphism (virtual functions & virtual destructor)
-       Operator overloading
+      Dynamic memory allocation and de-allocation
+      Single Inheritance (public inheritance only): at least 3 levels
+      Abstract classes (pure virtual functions)
+      Polymorphism (virtual functions & virtual destructor)
+      Operator overloading
       Exception handling
       Function template or class template
-       STL
+      STL
       Text file I/O
